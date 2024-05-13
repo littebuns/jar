@@ -14,6 +14,7 @@
         <module>excel</module>
         <module>validator</module>
         <module>xxl-job</module>
+        <module>redis</module>
     </modules>
 
     <properties>
