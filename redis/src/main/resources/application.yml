@@ -1,8 +1,6 @@
 spring:
   redis:
-    host: 120.77.234.251
-    port: 6379
-    password: $Fortune2017
+
     timeout: 3000
     database: 3
     lettuce:
